@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes.">
+    <title>Taste of Travel</title>
+</head>
+<body>
+    <h1>Embark on a Culinary Adventure</h1>
+    <h2>Discover the Flavors of Indonesia</h2>
+
+    <!-- ===================== SOTO AYAM ===================== -->
+    <h3>Soto Ayam: A Warm Indonesian Classic</h3>
+
+    <p>Soto Ayam is a beloved Indonesian chicken soup renowned for its golden broth and aromatic spices. This comforting dish features a fragrant blend of turmeric, lemongrass, and kaffir lime leaves, combined with tender shredded chicken.</p>
+
+    <blockquote>
+        <p><q>The key to a delicious Soto Ayam lies in a well-spiced, golden broth simmered patiently.</q></p>
+        <footer>- Chef Sari, Indonesian Cuisine Expert</footer>
+    </blockquote>
+
+    <h4>Ingredients:</h4>
+    <ul>
+        <li><strong>Lemongrass:</strong> 2 stalks</li>
+        <li><strong>Celery Leaves:</strong> 1 cup</li>
+        <li><strong>Kaffir Lime Leaves:</strong> 3 leaves</li>
+        <li><strong>Chicken:</strong> 500g</li>
+    </ul>
+
+    <h4>Preparation:</h4>
+    <ol>
+        <li><em>Boil the chicken in water for 20 minutes, then shred the meat.</em></li>
+        <li><em>Sauté ground shallots, garlic, and turmeric until fragrant.</em></li>
+        <li><em>Add the spice paste, lemongrass, and kaffir lime leaves to the broth.</em></li>
+        <li><em>Season with salt, pepper, and lime juice.</em></li>
+        <li><em>Serve hot with shredded chicken, celery leaves, and fried shallots.</em></li>
+    </ol>
+
+    <h4>Cooking Tips:</h4>
+    <ul>
+        <li><sup>1/4</sup> cup of fried shallots adds authentic Indonesian flavor.</li>
+        <li><sub>1</sub> teaspoon of ground turmeric gives the soup its signature golden color.</li>
+    </ul>
+
+    <img src="https://www.dapurkobe.co.id/wp-content/uploads/soto-ayam.jpg" alt="Soto Ayam">
+    <br><br>
+
+    <table>
+        <caption>Soto Ayam Recipe Details</caption>
+        <tr>
+            <th>Ingredient</th>
+            <th>Quantity</th>
+        </tr>
+        <tr>
+            <td>Lemongrass</td>
+            <td>2 stalks</td>
+        </tr>
+        <tr>
+            <td>Celery Leaves</td>
+            <td>1 cup</td>
+        </tr>
+        <tr>
+            <td>Kaffir Lime Leaves</td>
+            <td>3 leaves</td>
+        </tr>
+        <tr>
+            <td>Chicken</td>
+            <td>500g</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>Preparation Time:</strong> 45 minutes</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice, lontong, or sambal.</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <!-- ===================== RENDANG ===================== -->
+    <h3>Rendang: The Rich Spice-Slow-Cooked Beef of West Sumatra</h3>
+
+    <p>Rendang is a famous Minangkabau dish from West Sumatra, known for its deep, rich flavor and tender beef. Beef is slowly simmered in coconut milk and a fragrant blend of lemongrass, galangal, and kaffir lime leaves until the sauce reduces and coats the meat.</p>
+
+    <blockquote>
+        <p><q>The secret of a great Rendang is patience: cook it slowly until the oil separates and the spices darken.</q></p>
+        <footer>- Chef Uda, Minangkabau Cuisine Expert</footer>
+    </blockquote>
+
+    <h4>Ingredients:</h4>
+    <ul>
+        <li><strong>Beef:</strong> 500g</li>
+        <li><strong>Coconut Milk:</strong> 400ml</li>
+        <li><strong>Lemongrass:</strong> 2 stalks</li>
+        <li><strong>Kaffir Lime Leaves:</strong> 3 leaves</li>
+    </ul>
+
+    <h4>Preparation:</h4>
+    <ol>
+        <li><em>Blend shallots, garlic, ginger, galangal, and chilies into a smooth paste.</em></li>
+        <li><em>Sauté the paste with lemongrass and kaffir lime leaves until fragrant.</em></li>
+        <li><em>Add the beef and coat it well with the spices.</em></li>
+        <li><em>Pour in the coconut milk and simmer on low heat, stirring occasionally.</em></li>
+        <li><em>Cook for about 3 hours until the sauce thickens and turns dark brown.</em></li>
+    </ol>
+
+    <h4>Cooking Tips:</h4>
+    <ul>
+        <li><sup>1/2</sup> cup of toasted grated coconut (kerisik) adds a deeper, nutty flavor.</li>
+        <li><sub>1</sub> tablespoon of palm sugar balances the heat of the chilies.</li>
+    </ul>
+
+    <img src="https://klasika.kompas.id/wp-content/uploads/2024/08/Rendang-1-e1724229854949.webp" alt="Rendang">
+    <br><br>
+
+    <table>
+        <caption>Rendang Recipe Details</caption>
+        <tr>
+            <th>Ingredient</th>
+            <th>Quantity</th>
+        </tr>
+        <tr>
+            <td>Beef</td>
+            <td>500g</td>
+        </tr>
+        <tr>
+            <td>Coconut Milk</td>
+            <td>400ml</td>
+        </tr>
+        <tr>
+            <td>Lemongrass</td>
+            <td>2 stalks</td>
+        </tr>
+        <tr>
+            <td>Kaffir Lime Leaves</td>
+            <td>3 leaves</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>Preparation Time:</strong> 3 hours 30 minutes</td>
+        </tr>
+        <tr>
+            <td colspan="2"><strong>Serving Suggestions:</strong> Serve with steamed rice, cassava leaves, or lemang.</td>
+        </tr>
+    </table>
+
+</body>
+</html>
